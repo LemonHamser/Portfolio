@@ -4,6 +4,10 @@
 ### Python 3:
 1. [**Telegram-Bot via pytelegrambotApi**](https://github.com/TomYumCoder/Telebot_subscribtions_checker)  that checks subscribtions and then sends any content if it is.
 
+###Godot
+1. [**Flappy Bird for mobile**](https://github.com/TomYumCoder/Flappy-Bird) My first game on GD script, made in a few hours on assets made by J.Colin
+2. [**Pong game**](https://github.com/TomYumCoder/Godot-simple-pong-game) My second test on Godot, learning how rigid body works
+
 ### C# and Unity
 1. [**Match3-game with Midjourney assets**](https://github.com/TomYumCoder/Match-3-game-on-Unity) Typical match-3 game for Desktop with gems made with MJ prompts
 
