@@ -14,6 +14,6 @@
 ### Love 
 1. [**Simple point and click game**](https://github.com/TomYumCoder/Lua2-simple-point-and-click-game) Simple just-a-test game
 
-#### [**Leetcode solutions**](https://github.com/TomYumCoder/LeetCodeSolutions)
+### [**Leetcode solutions**](https://github.com/TomYumCoder/LeetCodeSolutions)
 
 ### [My telegram-chanel with AI art](https://t.me/ai_drawing)
